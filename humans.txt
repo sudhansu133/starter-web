@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Sudhansu Sekhar <twitter>
+    Sudhansu Sekhar
+    sudhansu122@gmail.com
+    System Administrator
 
 # THANKS
 
