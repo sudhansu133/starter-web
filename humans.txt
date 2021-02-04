@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 Hi I am modified the file before the file.
 Hi going to insert conflict my.
+Doing some changes in Local.
+
 # TEAM
 
     Sudhansu Sekhar
