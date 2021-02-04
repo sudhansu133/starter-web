@@ -1,4 +1,2 @@
-/status 200
-/httpaccess 200
-/mktsp 300
-/dummy 3000
+#Access to authorized Users only.
+Added this file while learning file.
