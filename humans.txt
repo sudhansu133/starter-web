@@ -3,6 +3,7 @@
 Hi I am modified the file before the file.
 Hi going to insert conflict my.
 Doing some changes in Local.
+Adding important Notes on Git Stash.
 
 # TEAM
 
